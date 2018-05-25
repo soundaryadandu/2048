@@ -329,26 +329,40 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+    /*background: #eee4da;*/
+    background-image: url('image1.jpg');
+    text-indent: -2000px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    /*background: #ede0c8;*/
+    background-image: url('image2.jpg');
+    text-indent: -2000px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+    /*color: #f9f6f2;
+    background: #f2b179;*/
+    background-image: url('image3.png');
+    text-indent: -2000px; }
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    /*color: #f9f6f2;
+    background: #f59563; */
+    background-image: url('image4.jpg');
+    text-indent: -2000px;}
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    /*color: #f9f6f2;
+    background: #f67c5f;*/
+    background-image: url('image5.png');
+    text-indent: -2000px; }
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    /*color: #f9f6f2;
+    background: #f65e3b;*/
+    background-image: url('image6.png');
+    text-indent: -2000px; }
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
+    /*color: #f9f6f2;
+    background: #edcf72;*/
+    background-image: url('image7.jpg');
+    text-indent: -2000px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
